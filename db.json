@@ -1,0 +1,40 @@
+{
+  "cart": [
+    {
+      "id": "f8f4",
+      "userId": "sdHIKK76NbSgrrSALjNK2Bv4qFh2",
+      "ProductId": "13",
+      "quantity": 6,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "price": 52712
+    },
+    {
+      "id": "1be4",
+      "userId": "sdHIKK76NbSgrrSALjNK2Bv4qFh2",
+      "ProductId": "2",
+      "quantity": 1,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "price": 1963
+    },
+    {
+      "id": "7103",
+      "userId": "8WO48mr8Z2ZhFcVbJLKHbJxk0vl2",
+      "ProductId": "13",
+      "quantity": 1,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "price": 52712
+    },
+    {
+      "id": "601d",
+      "userId": "YtG80NZm7QMTMvGNMWSSTo8dxl42",
+      "ProductId": "3",
+      "quantity": 1,
+      "title": "Mens Cotton Jacket",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": 4928
+    }
+  ]
+}
